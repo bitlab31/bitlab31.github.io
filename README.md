@@ -6,6 +6,6 @@ Customizable GitHub About Me page.
 
 * Fork this repository
 * Rename your forked repository to `<your-github-username>.github.io`
-* Edit the `githubUsername` record in the `config.json` file with your username and commit the changes
+* Edit the settings in the `config.js` file and commit the changes
 
 That's all. Your site is up and running on `https://<your-github-username>.github.io`
