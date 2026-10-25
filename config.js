@@ -30,7 +30,7 @@
     *   FALSE to hide the field
     *   STRING VALUE to override the one from GitHub
     */
-    "bio": "Head of Software Development in fintech. I like proven tech, explicit code, and systems that fail loudly in staging and never in production.",
+    "bio": "Head of Software Development in fintech.\nI like proven tech, explicit code, and systems that fail loudly in staging and never in production.",
 
     /**
     * Profile image
