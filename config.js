@@ -4,7 +4,7 @@
     * Used to fetch the data from a specific GitHub profile.'
     * IMPORTANT: Don't forget to set your username here.'
     */
-    "githubUsername": "tsvetomirnik",
+    "githubUsername": "bitlab31",
     
     /**
     * Full name
@@ -72,15 +72,15 @@
     "socialIcons": [
 		{
             "type": "EMAIL",
-		    "text": "cvetomir.nikolov@gmail.com"
-        },
-        {
-            "type": "GITHUB",
-		    "link": "https://github.com/tsvetomirnik"
+		    "text": "dimitrov.martin.v@gmail.com"
         },
 		{
             "type": "LINKEDIN",
-		    "link": "https://bg.linkedin.com/in/tsvetomir-nikolov-9461685b"
+		    "link": "https://www.linkedin.com/in/martin-dimitrov-web31/"
+        },        
+        {
+            "type": "GITHUB",
+		    "link": "https://github.com/bitlab31"
         }
     ]
 }
